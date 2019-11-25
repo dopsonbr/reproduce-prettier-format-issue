@@ -7512,6 +7512,11 @@ prettier@1.18.2:
   resolved "https://npm.artifactory.homedepot.com/artifactory/api/npm/npm/prettier/-/prettier-1.18.2.tgz#6823e7c5900017b4bd3acf46fe9ac4b4d7bda9ea"
   integrity sha1-aCPnxZAAF7S9Os9G/prEtNe9qeo=
 
+prettier@1.19.1:
+  version "1.19.1"
+  resolved "https://npm.artifactory.homedepot.com/artifactory/api/npm/npm/prettier/-/prettier-1.19.1.tgz#f7d7f5ff8a9cd872a7be4ca142095956a60797cb"
+  integrity sha1-99f1/4qc2HKnvkyhQglZVqYHl8s=
+
 pretty-format@^24.9.0:
   version "24.9.0"
   resolved "https://npm.artifactory.homedepot.com/artifactory/api/npm/npm/pretty-format/-/pretty-format-24.9.0.tgz#12fac31b37019a4eea3c11aa9a959eb7628aa7c9"
@@ -9350,10 +9355,15 @@ typedarray@^0.0.6:
   resolved "https://npm.artifactory.homedepot.com/artifactory/api/npm/npm/typedarray/-/typedarray-0.0.6.tgz#867ac74e3864187b1d3d47d996a78ec5c8830777"
   integrity sha1-hnrHTjhkGHsdPUfZlqeOxciDB3c=
 
-typescript@3.6.4, typescript@~3.6.4:
+typescript@3.6.4:
   version "3.6.4"
   resolved "https://npm.artifactory.homedepot.com/artifactory/api/npm/npm/typescript/-/typescript-3.6.4.tgz#b18752bb3792bc1a0281335f7f6ebf1bbfc5b91d"
   integrity sha1-sYdSuzeSvBoCgTNff26/G7/FuR0=
+
+typescript@~3.7.2:
+  version "3.7.2"
+  resolved "https://npm.artifactory.homedepot.com/artifactory/api/npm/npm/typescript/-/typescript-3.7.2.tgz#27e489b95fa5909445e9fef5ee48d81697ad18fb"
+  integrity sha1-J+SJuV+lkJRF6f717kjYFpetGPs=
 
 uglify-js@^3.1.4:
   version "3.7.0"
