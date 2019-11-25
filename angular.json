@@ -16,7 +16,7 @@
             "main": "apps/reproduce/src/main.ts",
             "polyfills": "apps/reproduce/src/polyfills.ts",
             "tsConfig": "apps/reproduce/tsconfig.app.json",
-            "aot": false,
+            "aot": true,
             "assets": [
               "apps/reproduce/src/favicon.ico",
               "apps/reproduce/src/assets"
@@ -37,7 +37,6 @@
               "sourceMap": false,
               "extractCss": true,
               "namedChunks": false,
-              "aot": true,
               "extractLicenses": true,
               "vendorChunk": false,
               "buildOptimizer": true,
